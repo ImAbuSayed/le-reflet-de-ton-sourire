@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/le-reflet-de-ton-sourire/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Le Reflet De Ton Sourire](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/le-reflet-de-ton-sourire/) |
+| **Get License** | [Secure Licensing Rights for Le Reflet De Ton Sourire](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/le-reflet-de-ton-sourire/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> J'suis captivé par le reflet de ton sourire,
+> Sous les néons, my baby, t'es mon seul désir,
+> T'as ce je-ne-sais-quoi qui me fait planer,
+> Dans cette folle nuit, on va tout enflammer.
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
